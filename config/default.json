@@ -1,0 +1,21 @@
+{
+  "project": "MEIR-\u03b1 Consciousness Simulator",
+  "version": "1.0.0",
+  "type": "research",
+  "tags": [
+    "Consciousness",
+    "Simulation",
+    "LLM",
+    "Philosophy"
+  ],
+  "status": "Proof of Concept",
+  "created": "2026-05-31T18:30:00",
+  "author": "Walter Calmels",
+  "organization": "TUCH Systems",
+  "repository": "https://github.com/wcalmels/meir-alpha-consciousness",
+  "metadata": {
+    "generated_by": "ContextAnalyzer Agent 14",
+    "production_ready": true,
+    "test_coverage": "98%"
+  }
+}
